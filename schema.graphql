@@ -1,0 +1,76 @@
+"""
+The NFT's we're tracking
+"""
+type NFT @entity {
+  "Address of the NFT"
+  id: ID!
+  "Address for who created the NFT"
+  creator: Bytes!
+  "Blocknumber for when the NFT was created"
+  timestamp: BigInt!
+  "Total supply for the NFT"
+  totalSupply: BigInt!
+  "Number of transfers that have occurred"
+  transferCount: Int!
+  "Number of unque holders of an NFT"
+  uniqueHolders: Int!
+  #  owners: String!
+  "Metadata for the NFT"
+  metadata: [Meta!]! @derivedFrom(field: "nft")
+  "Collection data for the NFT"
+  collection: [Collection!] @derivedFrom(field: "nfts")
+}
+
+type Meta @entity(immutable: true) {
+  "Meta data addess"
+  id: ID!
+  "Full meta data related to an address"
+  nft: NFT!
+  "Content of the meta data"
+  content: String
+  "This is the content details for Oibel 1155NFT"
+  name: String
+  "Name for who created the NFT"
+  createdBy: String
+  "A decription the the creator can use to describe the NFT"
+  description: String
+  "Image URL"
+  image: String
+  "The artist that created the NFT"
+  artist: String
+  "Year the NFT was created"
+  year: String
+  "What collection the NFT is part of"
+  collection: String
+  "Who deployed the NFT"
+  medium: String
+}
+
+type Holding @entity {
+  "Addresses holding the NFTs"
+  id: ID!
+  "Different accounts holding NFT"
+  account: Account!
+  "Different NFTs various accounts have"
+  nft: NFT!
+  "Ammount of NFTs an address is holding"
+  balance: BigInt!
+}
+
+type Collection @entity {
+  "Smart Contract address"
+  id: ID!
+  "NFTs held in the contract"
+  nfts: NFT!
+  "Number of transfers that have occurred"
+  transferCount: Int!
+  "Number of unique holders of an NFT"
+  uniqueHolders: Int!
+}
+
+type Account @entity {
+  "Account address"
+  id: ID!
+  "Address for who is holding an NFT"
+  holding: [Holding!] @derivedFrom(field: "account")
+}
