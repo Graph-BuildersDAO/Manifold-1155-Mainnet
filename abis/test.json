@@ -1,0 +1,186 @@
+[
+  {
+    "name": "SOULWAVE - Colors Of My Mind",
+
+    "created_by": "Samora 'Oibel1.' Bazarrabusa",
+    "description": "The Soulwave is the initial feeling, that wave of energy for a new idea or urge to do something new.  n*  nThe Collection, COLORS OF MY MIND, represents the freedom to do what u feel without a doubt, in the exact moment u feel it. Made 4 the soul.  n*  nHandpainted on Procreate by Samora 'Oibel1.' Bazarrabusa in January 2022. All rights reserved.  nFile: JPG 4961x7016, 11,1MB",
+    "attributes": [
+      { "trait_type": "Artist", "value": "Samora 'Oibel1.' Bazarrabusa" },
+      { "trait_type": "Year", "value": "2022" },
+      { "trait_type": "Collection", "value": "Colors Of My Mind" },
+      { "trait_type": "Medium", "value": "Digital Painting" }
+    ],
+    "image_details": {
+      "bytes": 11086461,
+      "format": "JPEG",
+      "sha256": "f3fa1011fc881c276982454ef287136f33671614e1ad055a605db0209d8348f9",
+      "width": 4961,
+      "height": 7016
+    },
+    "image": "https://arweave.net/PuipUik5o-Bnw3aZ-tOCju1sUfVmPNzgwf0lhxMQ0E0",
+    "image_url": "https://arweave.net/PuipUik5o-Bnw3aZ-tOCju1sUfVmPNzgwf0lhxMQ0E0"
+  },
+
+  {
+    "name": "Dormant Dragons #1013",
+    "image": "ipfs://Qme5dPJqnAXPfr3NUq44uPjqAMLSQExypwsU4yZSbAQjU1/1013.png",
+    "attributes": [
+      { "trait_type": "Backgrounds", "value": "Plains" },
+      { "trait_type": "Body", "value": "Yellow" },
+      { "trait_type": "Belly", "value": "Steel" },
+      { "trait_type": "Horns", "value": "Normal" },
+      { "trait_type": "Misc", "value": "Mouth Slash" },
+      { "trait_type": "Collar", "value": "No Collar" },
+      { "trait_type": "Eye", "value": "Normal" },
+      { "trait_type": "Mouth", "value": "Muzzle" },
+      { "trait_type": "Head", "value": "Nothing" }
+    ],
+    "description": "Dormant Dragons was started with the idea of bringing something different to the NFT space in the sense of truly being community-focused. By that, we have a few processes in place behind the scenes that will reward Dormant Dragon holders in a variety of methods."
+  },
+  {
+    "description": "You are a WITCH with unspeakable talent. You light your scrapbooking table with fireflies in jars. Your magic spawns from a dolphin's first swim. Ghosts linger in your shadow in hope of retribution.  AS YOU WILL IT, SO IT COMES TO PASS!",
+    "external_url": "https://www.cryptocoven.xyz/witches/4184",
+    "image": "https://cryptocoven.s3.amazonaws.com/7ce95470e3fc8b19a81fb8c444c4edda.png",
+    "name": "malachite, the snow-covered rapier",
+    "background_color": "",
+    "attributes": [
+      { "trait_type": "Skin Tone", "value": "Twilight" },
+      { "trait_type": "Body Shape", "value": "Lithe" },
+      { "trait_type": "Hair (Front)", "value": "Bald" },
+      { "trait_type": "Hair Topper", "value": "Aries Horns" },
+      { "trait_type": "Background", "value": "Lavender" },
+      { "trait_type": "Back Item", "value": "Chinese Lantern" },
+      { "trait_type": "Mouth", "value": "Bow (Coral)" },
+      { "trait_type": "Eye Style", "value": "Smudged Snake" },
+      { "trait_type": "Eye Color", "value": "Pink" },
+      { "trait_type": "Eyebrows", "value": "Strong (Black)" },
+      { "trait_type": "Top", "value": "Off Shoulder (Black)" },
+      { "trait_type": "Facewear", "value": "Septum Ring (Turquoise)" },
+      { "trait_type": "Archetype of Power", "value": "Necromancer" },
+      { "trait_type": "Sun Sign", "value": "Capricorn" },
+      { "trait_type": "Moon Sign", "value": "Virgo" },
+      { "trait_type": "Rising Sign", "value": "Virgo" },
+      {
+        "display_type": "number",
+        "trait_type": "Will",
+        "value": 5,
+        "max_value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Wit",
+        "value": 2,
+        "max_value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Wiles",
+        "value": 7,
+        "max_value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Wisdom",
+        "value": 5,
+        "max_value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Wonder",
+        "value": 3,
+        "max_value": 9
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Woe",
+        "value": 8,
+        "max_value": 9
+      }
+    ],
+    "coven": {
+      "id": 4184,
+      "name": "malachite, the snow-covered rapier",
+      "type": "necromancer",
+      "description": {
+        "intro": "You are a WITCH with unspeakable talent.",
+        "hobby": "You light your scrapbooking table with fireflies in jars.",
+        "magic": "Your magic spawns from a dolphin's first swim.",
+        "typeSpecific": "Ghosts linger in your shadow in hope of retribution. ",
+        "exclamation": "AS YOU WILL IT, SO IT COMES TO PASS!"
+      },
+      "skills": {
+        "will": 5,
+        "wit": 2,
+        "wiles": 7,
+        "wisdom": 5,
+        "wonder": 3,
+        "woe": 8
+      },
+      "birthChart": {
+        "sun": "capricorn",
+        "moon": "virgo",
+        "rising": "virgo"
+      },
+      "styles": [
+        {
+          "id": "recHX50bzSLhss0yd",
+          "attribute": "base",
+          "name": "lithe",
+          "color": "twilight"
+        },
+        {
+          "id": "reczFnBxx4WoAKLJ4",
+          "attribute": "hair-bangs",
+          "name": "bald"
+        },
+        {
+          "id": "recobW5ilYpQww7W2",
+          "attribute": "hair-topper",
+          "name": "aries-horns"
+        },
+        {
+          "id": "recZYxGlUvXtCqDiS",
+          "attribute": "background",
+          "name": "solid",
+          "color": "lavender"
+        },
+        {
+          "id": "recK7lI9J3yQmQk9L",
+          "attribute": "back-item",
+          "name": "chinese-lantern"
+        },
+        {
+          "id": "reclBmc8381MT1u13",
+          "attribute": "mouth",
+          "name": "bow",
+          "color": "coral"
+        },
+        {
+          "id": "recvRzCds4EZpPdoi",
+          "attribute": "eyes",
+          "name": "smudged-snake",
+          "color": "pink"
+        },
+        {
+          "id": "rech4QBt4UWpNiaxQ",
+          "attribute": "eyebrows",
+          "name": "strong",
+          "color": "black"
+        },
+        {
+          "id": "recJ3XZtELYonORAy",
+          "attribute": "body-under",
+          "name": "off-shoulder",
+          "color": "black"
+        },
+        {
+          "id": "recAUjalPmJQFs81N",
+          "attribute": "facewear",
+          "name": "septum-ring",
+          "color": "turquoise"
+        }
+      ],
+      "hash": "7ce95470e3fc8b19a81fb8c444c4edda"
+    }
+  }
+]
